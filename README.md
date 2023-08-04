@@ -1,16 +1,24 @@
 # chat_app_project
 
-A new Flutter project.
+chat app project Allows you to create a written conversation
+
+## What's inside
+
+ - Authentication Ready 
+ - Flexible user interface with all phones
+ - Three Page Ready-to-use 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Clone and Install
+```
+# Clone the repo
+git clone https://github.com/abdelhamedEzzat/chat_app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Navigate to clonned folder and Install dependencies
+cd flutter_chat_app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+##Contributing
+If you find any problems, please open an issue or submit a fix as a pull request.
