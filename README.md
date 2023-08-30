@@ -6,7 +6,8 @@ chat app project Allows you to create a written conversation
 
  - Authentication Ready 
  - Flexible user interface with all phones
- - Three Page Ready-to-use 
+ - Three Page Ready-to-use
+ - Used in app bloc as state management
 
 ## Getting Started
 
